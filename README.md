@@ -4,7 +4,7 @@
 🚀Preparando-se para o mercado de tecnologia
 📫Contato: augustocamelo239@gmail.com
 
-##🛠️ Tecnologias que estudo
+##🛠️ Tecnologias que eu estudo
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
